@@ -78,4 +78,18 @@ Open http://127.0.0.1:5000/ in your browser and start asking questions!
 📚 Colorful Background
 📝 Clean Display of Answers and Source References
 
+🤝 Acknowledgements
+Meta AI for LLaMA 3
+
+Groq for ultra-fast model serving
+
+LangChain for orchestration
+
+HuggingFace for embedding models
+
+Open-source contributors 🙏
+
+🚀 Let's bring ancient wisdom into the modern AI world!
+
+
 
